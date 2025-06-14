@@ -1,5 +1,6 @@
 # GitHub_tutorial
 This repository is a comprehensive guide to understanding and using GitHub effectively
+<br> Author - Atharv Tingane
 <br>
 Create and manage repositories
 <br>
